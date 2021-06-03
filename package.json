@@ -46,6 +46,8 @@
         "gulp-sass": "4.0.2",
         "gulp-uglify": "3.0.2",
         "merge-stream": "^1.0.1",
-        "axios": ">=0.21.1"
+        "axios": ">=0.21.1",
+        "xmlhttprequest-ssl": ">=1.6.2",
+        "ua-parser-js": ">=0.7.24"
     }
 }
